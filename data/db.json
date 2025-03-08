@@ -1,0 +1,21 @@
+{
+    "students": [
+      {
+        "id": "6630250371",
+        "name": "ภูดิศ โภคามาตย์",
+        "campus": "ศรีราชา",
+        "school": "มหาวิทยาลัยเกษตรศาสตร์",
+        "faculty": "วิทยาศาสตร์",
+        "picture": "profile1.jpg"
+      }
+    ],
+    "grades": [
+      {
+        "studentId": "6630250371",
+        "subject": "Mathematics",
+        "unit": 3,
+        "grade": "A"
+      }
+    ]
+  }
+  
